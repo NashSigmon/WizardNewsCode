@@ -1,0 +1,17 @@
+{
+  "name": "wizardnews",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.7"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
