@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
+    "start:dev": "nodemon app.js",
     "start": "nodemon app.js"
   },
   "keywords": [],
@@ -12,6 +13,7 @@
     "nodemon": "^1.14.7"
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "morgan": "^1.10.0"
   }
 }
